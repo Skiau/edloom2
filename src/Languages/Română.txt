@@ -1,0 +1,66 @@
+Email:
+Parolă:
+Nume:
+Autentificare
+FORMULAR DE ÎNREGISTRARE
+Email sau parolă greșite
+Email-ul este deja înregistrat
+Creează un cont nou
+Înapoi la autentificare
+ÎNREGISTRARE
+Acest cont este suspendat
+minim 8 caractere
+repetă parola
+Bun venit!
+Limbă
+Explorează!
+Prenume
+Nume
+Cont
+Deconectare
+Setări
+Începe quiz
+Încarcă trimitere
++ adaugă curs
+vizualizează
+ Introdu parolă pentru acest quiz
+șterge
++ modul nou
+Titlul cursului:
+Anul:
+Descriere:
+Săptămâna
+Dată de început:
+Depuneri până la:
+Parolă quiz:
+Temporizator (minute):
++ adaugă întrebare
+< inserează variantă răspuns >
+salvează
+Titlu:
+URL:
+Lipsesc date pentru acest cont.
+Cursul nu este disponibil
+Termină
+Dezactivat
+Titlu
+Publicant
+An
+Înrolare
+Progres
+Studenți
+Cheie
+Listat
+Caută
+Cursurile mele
+Performanță quiz
+Scor
+Depuneri
+Înregistrat la:
+Schimbă parola
+Șterge cont
+Parolă veche:
+Parolă nouă:
+Confirmă cu parola:
+Parolă actualizată!
+Parola nu a putut fi schimbată:/

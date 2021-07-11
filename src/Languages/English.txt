@@ -1,0 +1,66 @@
+Email:
+Password:
+Name:
+Login
+REGISTRATION FORM
+Wrong credentials
+Email already registered
+Create a new account
+Back to login
+SIGN UP
+This account is indefinitely suspended
+minimum 8 characters
+repeat password
+Welcome!
+Language
+Explore!
+First name
+Last name
+Account
+Log out
+Settings
+Take quiz
+Upload submission
++ add course
+view
+ Enter password for this quiz
+delete
++ new module
+Course title:
+Year:
+Description:
+Week
+Start date:
+Submissions until:
+Quiz password:
+Timer (minutes):
++ add question
+< insert answer option >
+save
+Title:
+URL:
+Data is missing for this account.
+Course not available
+Finish
+Disabled
+Title
+Publisher
+Year
+Enroll
+Progress
+Students
+Key
+Listed
+Search
+My courses
+Quiz performance
+Score
+Submissions
+Registered at:
+Change password
+Delete account
+Old password:
+New password:
+Confirm with password:
+Password updated!
+Password could not be changed :/
