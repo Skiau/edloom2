@@ -26,5 +26,3 @@ Some features of this project:
 - Documentation 
 
 What it is lacking is a well-defined architecture. This is partly because I started coding without a pre-determined UML diagram or any kind of blueprint. It was originally supposesd to be a MVC. Final result is unpolished.
-
-Currently optimising memory usage using VisualVM.
